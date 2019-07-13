@@ -1,0 +1,9 @@
+[submodule "smaroomans-webserver"]
+	path = smaroomans-webserver
+	url = git@github.com:niklaskleinhans/smaroomans-webserver.git
+[submodule "smaroomans-client"]
+	path = smaroomans-client
+	url = git@github.com:niklaskleinhans/smaroomans-client.git
+[submodule "smaroomans-gpio"]
+	path = smaroomans-gpio
+	url = git@github.com:niklaskleinhans/smaroomans-gpio.git
