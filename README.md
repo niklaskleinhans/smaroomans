@@ -2,7 +2,7 @@
 Smart Cities project
 
 ## Description
-![smaroomans interface](/img/smaroomans.png)
+![smaroomans interface](img/smaroomans.png)
 
 
 ## Quick start
