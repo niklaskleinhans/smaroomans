@@ -6,7 +6,7 @@ Organize your Office/Home Office days in you Web-Planner. On Office days receive
 ![smaroomans interface](img/smaroomans.png)
 
 ## System Architecture
-![smaroomans architecture](img/architecture.svg)
+![smaroomans architecture](img/architecture.png)
 
 ## Quick start
 1. Set up the raspberry pi as described in smaroomans-gpio/readme.md
