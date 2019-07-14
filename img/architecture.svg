@@ -39,15 +39,15 @@
             <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <rect id="path-11" x="0" y="1" width="160" height="42"></rect>
+        <rect id="path-11" x="3" y="1" width="160" height="42"></rect>
         <filter x="-4.4%" y="-11.9%" width="108.8%" height="133.3%" filterUnits="objectBoundingBox" id="filter-12">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <rect id="path-13" x="0" y="1" width="160" height="42"></rect>
-        <filter x="-4.4%" y="-11.9%" width="108.8%" height="133.3%" filterUnits="objectBoundingBox" id="filter-14">
+        <rect id="path-13" x="-4.54747351e-13" y="1" width="167" height="42"></rect>
+        <filter x="-4.2%" y="-11.9%" width="108.4%" height="133.3%" filterUnits="objectBoundingBox" id="filter-14">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
@@ -225,7 +225,7 @@
                     <tspan x="54.2975" y="14">crontab</tspan>
                 </text>
                 <text id="plugwise2py" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                    <tspan x="0" y="36"> plugwise2py</tspan>
+                    <tspan x="0" y="36">  plugwise2py</tspan>
                 </text>
             </g>
             <g id="Group" transform="translate(631.000000, 105.000000)">
@@ -241,23 +241,23 @@
                     <tspan x="54.2975" y="14">crontab</tspan>
                 </text>
                 <text id="zwave_mqtt_bridge" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                    <tspan x="0" y="36"> zwave_mqtt_bridge</tspan>
+                    <tspan x="0" y="36">  zwave_mqtt_bridge</tspan>
                 </text>
             </g>
-            <g id="Group" transform="translate(631.000000, 163.000000)">
+            <g id="Group" transform="translate(628.000000, 163.000000)">
                 <g id="Rectangle">
                     <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-                    <rect stroke="#979797" stroke-width="1" stroke-linejoin="square" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="1.5" width="159" height="41"></rect>
+                    <rect stroke="#979797" stroke-width="1" stroke-linejoin="square" fill="#D8D8D8" fill-rule="evenodd" x="3.5" y="1.5" width="159" height="41"></rect>
                 </g>
                 <g id="Rectangle">
                     <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
-                    <rect stroke="#979797" stroke-width="1" stroke-linejoin="square" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="1.5" width="159" height="41"></rect>
+                    <rect stroke="#979797" stroke-width="1" stroke-linejoin="square" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="1.5" width="166" height="41"></rect>
                 </g>
                 <text id="crontab" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                    <tspan x="54.2975" y="14">crontab</tspan>
+                    <tspan x="57.2975" y="14">crontab</tspan>
                 </text>
                 <text id="smaroomans-gpio-mqtt" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                    <tspan x="0" y="36">smaroomans-gpio-mqtt</tspan>
+                    <tspan x="0" y="36"> smaroomans-gpio-mqtt </tspan>
                 </text>
             </g>
             <g id="Broker" transform="translate(8.000000, 46.000000)">
@@ -278,7 +278,7 @@
                         <tspan x="63.29" y="14">topic</tspan>
                     </text>
                     <text id="sensor/-sensorkey-" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                        <tspan x="0" y="36"> sensor/-sensorkey-</tspan>
+                        <tspan x="0" y="36">  sensor/-sensorkey-</tspan>
                     </text>
                 </g>
                 <g id="Group" transform="translate(185.000000, 129.000000)">
@@ -294,7 +294,7 @@
                         <tspan x="63.29" y="14">topic</tspan>
                     </text>
                     <text id="zwave/updates/2" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                        <tspan x="0" y="36"> zwave/updates/2</tspan>
+                        <tspan x="0" y="36">  zwave/updates/2</tspan>
                     </text>
                 </g>
                 <g id="Group" transform="translate(185.000000, 71.000000)">
@@ -310,7 +310,7 @@
                         <tspan x="63.29" y="14">topic</tspan>
                     </text>
                     <text id="plugwise2py" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                        <tspan x="0" y="36"> plugwise2py</tspan>
+                        <tspan x="0" y="36">  plugwise2py</tspan>
                     </text>
                 </g>
                 <g id="Group" transform="translate(361.000000, 129.000000)">
@@ -326,7 +326,7 @@
                         <tspan x="63.29" y="14">topic</tspan>
                     </text>
                     <text id="gpio/sensor/window" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                        <tspan x="0" y="36"> gpio/sensor/window</tspan>
+                        <tspan x="0" y="36">  gpio/sensor/window</tspan>
                     </text>
                 </g>
                 <g id="Group" transform="translate(8.000000, 129.000000)">
@@ -338,7 +338,7 @@
                         <tspan x="63.29" y="14">topic</tspan>
                     </text>
                     <text id="client/notifications" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                        <tspan x="0" y="36"> client/notifications</tspan>
+                        <tspan x="0" y="36">  client/notifications</tspan>
                     </text>
                 </g>
             </g>
@@ -383,7 +383,7 @@
                         <tspan x="56.7125" y="14">utilities</tspan>
                     </text>
                     <text id="SensorManager" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                        <tspan x="0" y="36"> SensorManager</tspan>
+                        <tspan x="0" y="36">  SensorManager</tspan>
                     </text>
                 </g>
                 <g id="Group" transform="translate(185.000000, 130.000000)">
@@ -412,7 +412,7 @@
                         <tspan x="56.7125" y="14">utilities</tspan>
                     </text>
                     <text id="StateMachine" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                        <tspan x="0" y="36"> StateMachine</tspan>
+                        <tspan x="0" y="36">  StateMachine</tspan>
                     </text>
                 </g>
                 <g id="Group" transform="translate(8.000000, 129.000000)">
@@ -424,7 +424,7 @@
                         <tspan x="58.3625" y="14">utilties</tspan>
                     </text>
                     <text id="RoomManager" font-family="ProductSans-Regular, Product Sans" font-size="15" font-weight="normal" fill="#000000">
-                        <tspan x="0" y="36"> RoomManager</tspan>
+                        <tspan x="0" y="36">  RoomManager</tspan>
                     </text>
                 </g>
             </g>
