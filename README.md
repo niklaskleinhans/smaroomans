@@ -1,9 +1,11 @@
-# smaroomans
-Smart Cities project
+# Smaroomans
+In case of the Smart Cities lectures we implemented a "Smart Room Management System".
 
-## Description
+Organize your Office/Home Office days in you Web-Planner. On Office days receive room Notifications to optimize energy consumption and working conditions
+
 ![smaroomans interface](img/smaroomans.png)
 
+## System Architecture
 
 ## Quick start
 1. Set up the raspberry pi as described in smaroomans-gpio/readme.md
